@@ -2,7 +2,7 @@ const Nav = () => {
   return (
     <nav>
       <h2>Emojee</h2>
-      <a href="/" target="_blank">Github</a>
+      <a href="https://github.com/aayusharyan/emojee-react" target="_blank">Github</a>
     </nav>
   )
 }
